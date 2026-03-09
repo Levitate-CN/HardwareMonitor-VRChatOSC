@@ -1,3 +1,6 @@
+## 原理
+通过抓取gpuz软件的共享内存数据，获得gpu硬件信息。该方法理论上无需改动代码即可适配任意显卡（只要gpuz能读到）
+
 ## 如何使用：
 
 从Release下载压缩包并解压
@@ -7,6 +10,9 @@
 运行start.bat
 
 打开VRChat，确保OSC已打开。硬件信息会自动发送至聊天框
+
+（绝大）部分代码由Claude生成
+
 
 ## How to use:
 
@@ -18,7 +24,8 @@ Run start.bat.
 
 Open VRChat and ensure OSC is enabled. Hardware information will be automatically sent to the chat window.
 
-（绝大）部分代码由Claude生成
+
 
 ## Note: 
 This program is only compatible with the Windows platform.
+
