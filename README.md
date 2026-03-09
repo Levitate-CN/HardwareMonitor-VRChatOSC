@@ -1,4 +1,5 @@
-如何使用：
+##如何使用：
+
 克隆本仓库
 
 下载gpuz软件，将exe文件放至本项目根目录
@@ -7,7 +8,7 @@
 
 打开VRChat，确保OSC已打开。硬件信息会自动发送至聊天框
 
-How to use:
+##How to use:
 
 Clone this repository
 
