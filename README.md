@@ -18,4 +18,4 @@ Run start.bat
 
 Open VRChat and ensure OSC is enabled. Hardware information will be automatically sent to the chat window.
 
-（绝大）部分代码由Cloaude生成
+（绝大）部分代码由Claude生成
