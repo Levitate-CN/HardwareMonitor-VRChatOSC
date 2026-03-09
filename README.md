@@ -13,3 +13,5 @@ Download the gpuz software and place the .exe file in the root directory of this
 Run start.bat
 
 Open VRChat and ensure OSC is enabled. Hardware information will be automatically sent to the chat window.
+
+（绝大）部分代码由Cloaude生成
